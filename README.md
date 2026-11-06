@@ -41,3 +41,5 @@ This notebook generates several high-quality static and interactive plots:
 1.  **Overall Pie Chart Share:** A clean visual breakdown of the full 3-year aggregate fuel mix percentages.
 2.  **Interactive Monthly Stacked Bar Chart:** A dropdown-controlled visualization allowing toggles between total output in **TWh** and **% Share** across the 36-month timeline.
 3.  **Interactive Yearly Stacked Bar Chart:** An aggregated annual comparison chart detailing transition trends between 2023, 2024, and 2025 with on-bar text labels.
+
+Presentation and Website: [Link](https://www.figma.com/make/Xd47oD8Kmbr2TP1qB0sVOL/Energy-Mix-Use-Case?code-node-id=0-6&p=f&t=WDEIXrmIhY5Ixrcf-0&fullscreen=1&preview-route=%2F%3Fpresentation%3D1)
