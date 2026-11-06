@@ -1,5 +1,3 @@
-### hackathon-unit1
-
 # NYISO Fuel Mix Analysis (2023 - 2025)
 
 This project provides an interactive exploratory data analysis (EDA) and visualization suite for the **New York Independent System Operator (NYISO)** fuel mix and generation patterns from 2023 through 2025.
